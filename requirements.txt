@@ -2,6 +2,6 @@
 lxml
 py3o.formats
 py3o.template
-PyPDF2
+/bin/bash: :wq: command not found
 xlrd
 xlsxwriter
